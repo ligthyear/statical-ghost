@@ -28,15 +28,11 @@
   "devDependencies": {},
   "dependencies": {
     "chokidar": "^1.4.1",
-    "colors": "^1.1.2",
-    "commander": "^2.9.0",
     "downsize": "^0.0.8",
-    "fs-plus": "^2.8.2",
     "handlebars": "^4.0.3",
     "highlight.js": "^8.9.1",
     "js-yaml": "^3.4.6",
     "lodash": "^3.10.1",
-    "log4js": "^0.6.29",
     "markdown-it": "^5.0.2",
     "markdown-it-abbr": "^1.0.0",
     "markdown-it-container": "^2.0.0",
@@ -48,8 +44,6 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "moment": "^2.10.6",
-    "node-static": "^0.7.7",
-    "progress": "^1.1.8",
     "rss": "^1.1.1"
   }
 }
